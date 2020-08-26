@@ -9,6 +9,7 @@ public class User {
     private String address;
 
     public User() {
+        System.out.println("hello");
     }
 
     public User(String name, String sex, String address) {
