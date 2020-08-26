@@ -9,7 +9,7 @@ public class User {
     private String address;
 
     public User() {
-        System.out.println("hello");
+        System.out.println("hellogay");
     }
 
     public User(String name, String sex, String address) {
